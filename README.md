@@ -1,4 +1,4 @@
-### Hi there 👋
+### lim (x→∞) [ π(x)/(x/ln x) ] = 1
 
 <!--
 **Number571/Number571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
