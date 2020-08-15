@@ -1,5 +1,4 @@
-Learning as a kind of hobby
-
+    Learning as a kind of hobby.
 ```scheme
 (define (cons x y)
     (define (dispatch m)
