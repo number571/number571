@@ -1,16 +1,12 @@
-### lim (x→∞) [ π(x)/(x/ln x) ] = 1
+Learning as a kind of hobby
 
-<!--
-**Number571/Number571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```scheme
+(define (cons x y)
+    (define (dispatch m)
+        (cond ((= m 0) x)
+              ((= m 1) y)
+              (else (error "m /= {0, 1}"))))
+    dispatch)
+(define (car f) (f 0))
+(define (cdr f) (f 1))
+```
