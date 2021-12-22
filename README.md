@@ -5,7 +5,7 @@
 * **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/Number571/Cryptography/blob/master/crypto_complex.pdf "CCA");
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/Blockchain/blob/master/_example/blockchain.pdf "BC");
 * CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/Blockchain/blob/master/_example/interface.pdf "CLIGUI");
-* Cryptography with Python: [Cryptography_with_Python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/Cryptography_with_Python.pdf, "CWP");
+* Cryptography with Python: [Cryptography_with_Python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/Cryptography_with_Python.pdf "CWP");
 * The Haskell programming language: [The_Haskell_Programming_Language.pdf](https://github.com/number571/Haskell/blob/master/Book/The_Haskell_Programming_Language.pdf "THPL");
 
 ## Applications
