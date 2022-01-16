@@ -1,5 +1,5 @@
 ## Research articles, manuals, books
-* Theory of the structure of hidden systems: [hiddensystems.pdf](https://github.com/number571/gopeer/blob/master/hiddensystems.pdf);
+* Theory of the structure of hidden systems: [hidden_systems.pdf](https://github.com/number571/gopeer/blob/master/hidden_systems.pdf);
 * **(TODO)** UoP consensus algorithm for blockchain systems: [union_of_peers.pdf](https://github.com/number571/unionbc/blob/master/union_of_peers.pdf);
 * **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/number571/allang/blob/master/creating_programming_language.pdf);
 * **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/number571/Cryptography/blob/master/crypto_complex.pdf);
@@ -10,13 +10,13 @@
 * The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
 ## Applications
-#### Article based [hiddensystems] applications and libraries
-* Framework gopeer: [gopeer](https://github.com/number571/gopeer);
+#### Article based [hidden_systems] applications and libraries
+* Framework gopeer: [go-peer](https://github.com/number571/go-peer);
 * Hidden Lake Service: [hls](https://github.com/number571/hls);
 * Hidden Email Service: [hes](https://github.com/number571/hes);
 
 #### Blockhain applications
-* Blockchain kernel with UoP: [unionbc](https://github.com/number571/unionbc);
+* Blockchain kernel with UoP: [union-bc](https://github.com/number571/union-bc);
 * Cryptocurrency from scratch: [blockchain](https://github.com/number571/blockchain);
 
 #### Programming language (ALL) based on virtual machine (CVM)
