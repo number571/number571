@@ -1,27 +1,27 @@
 ## Research articles, manuals, books
-* Theory of the structure of hidden systems: [hiddensystems.pdf](https://github.com/Number571/gopeer/blob/master/hiddensystems.pdf "TSHS");
-* **(TODO)** UoP consensus algorithm for blockchain systems: [union-of-peers.pdf](https://github.com/Number571/Laziest/blob/master/union-of-peers.pdf "UoP");
-* **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/Number571/ALLang/blob/master/creating_programming_language.pdf "CPL");
-* **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/Number571/Cryptography/blob/master/crypto_complex.pdf "CCA");
-* Blockchain node programming: [blockchain.pdf](https://github.com/number571/Blockchain/blob/master/_example/blockchain.pdf "BC");
-* CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/Blockchain/blob/master/_example/interface.pdf "CLIGUI");
-* Cryptography and Golang: [CryptoGo.pdf](https://github.com/number571/Go/blob/master/Cryptography/CryptoGo.pdf "CAG");
-* Cryptography with Python: [Cryptography_with_Python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/Cryptography_with_Python.pdf "CWP");
-* The Haskell programming language: [The_Haskell_Programming_Language.pdf](https://github.com/number571/Haskell/blob/master/Book/The_Haskell_Programming_Language.pdf "THPL");
+* Theory of the structure of hidden systems: [hiddensystems.pdf](https://github.com/Number571/gopeer/blob/master/hiddensystems.pdf);
+* **(TODO)** UoP consensus algorithm for blockchain systems: [union-of-peers.pdf](https://github.com/Number571/Laziest/blob/master/union-of-peers.pdf);
+* **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/Number571/ALLang/blob/master/creating_programming_language.pdf);
+* **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/Number571/Cryptography/blob/master/crypto_complex.pdf);
+* Blockchain node programming: [blockchain.pdf](https://github.com/number571/Blockchain/blob/master/_example/blockchain.pdf);
+* CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/Blockchain/blob/master/_example/interface.pdf);
+* Cryptography and Golang: [CryptoGo.pdf](https://github.com/number571/Go/blob/master/Cryptography/CryptoGo.pdf);
+* Cryptography with Python: [Cryptography_with_Python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/Cryptography_with_Python.pdf);
+* The Haskell programming language: [The_Haskell_Programming_Language.pdf](https://github.com/number571/Haskell/blob/master/Book/The_Haskell_Programming_Language.pdf);
 
 ## Applications
 #### Article based [hiddensystems] applications and libraries
-* Framework gopeer: [gopeer](https://github.com/number571/gopeer "gopeer");
-* Hidden Lake Service: [HLS](https://github.com/number571/HLS "HLS");
-* Hidden Email Service: [HES](https://github.com/number571/HES "HES");
+* Framework gopeer: [gopeer](https://github.com/number571/gopeer);
+* Hidden Lake Service: [hls](https://github.com/number571/hls);
+* Hidden Email Service: [hes](https://github.com/number571/hes);
 
 #### Blockhain applications
-* Blockchain kernel with UoP: [union-bc](https://github.com/number571/union-bc);
-* Cryptocurrency from scratch: [Blockchain](https://github.com/number571/Blockchain);
+* Blockchain kernel with UoP: [unionbc](https://github.com/number571/unionbc);
+* Cryptocurrency from scratch: [blockchain](https://github.com/number571/blockchain);
 
 #### Programming language (ALL) based on virtual machine (CVM)
-* Another LISP Language: [ALLang](https://github.com/number571/ALLang);
-* C virtual machine: [CVM](https://github.com/number571/CVM);
+* Another LISP Language: [allang](https://github.com/number571/allang);
+* C virtual machine: [cvm](https://github.com/number571/cvm);
 * Extended C library: [extclib](https://github.com/number571/extclib);
 
 #### GOST implementations
@@ -29,14 +29,14 @@
 * CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
 
 ## Deprecated applications!
-* Hidden Lake: [HiddenLake](https://github.com/number571/HiddenLake):
+* Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake):
   * security proof problems;
   * old version framework 'gopeer';
   * can be replaced with HLS+HES+...;
-* P2P connections in Tor: [Peer-Tor-Peer](https://github.com/number571/Peer-Tor-Peer):
+* P2P connections in Tor: [peer-tor-peer](https://github.com/number571/peer-tor-peer):
   * tor network is blocked - [lenta.ru](https://lenta.ru/articles/2021/12/14/tor), [meduza.io](https://meduza.io/feature/2021/12/10), [tjournal.ru](tjournal.ru/analysis/488026-v-rossii-zhaluyutsya-na-blokirovku-tor-ego-mozhno-zablokirovat-polnostyu-i-chto-togda-delat-otvechayut-specialisty);
   * unstructured application;
-* Web HTML parser: [Web-Parser](https://github.com/number571/Web-Parser):
+* Web HTML parser: [web-parser](https://github.com/number571/web-parserr):
   * unstructured application;
-* Schedule generator for technical College: [ScheduleGenerator](https://github.com/number571/ScheduleGenerator):
+* Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator):
   * very unstructured application;
