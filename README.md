@@ -1,6 +1,6 @@
 ## Research articles, manuals, books
 * Theory of the structure of hidden systems: [hiddensystems.pdf](https://github.com/Number571/gopeer/blob/master/hiddensystems.pdf "TSHS");
-* **(TODO)** UoP consensus algorithm for blockchain systems: [proof-of-laziness.pdf](https://github.com/Number571/Laziest/blob/master/union-of-peers.pdf "UoP");
+* **(TODO)** UoP consensus algorithm for blockchain systems: [union-of-peers.pdf](https://github.com/Number571/Laziest/blob/master/union-of-peers.pdf "UoP");
 * **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/Number571/ALLang/blob/master/creating_programming_language.pdf "CPL");
 * **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/Number571/Cryptography/blob/master/crypto_complex.pdf "CCA");
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/Blockchain/blob/master/_example/blockchain.pdf "BC");
