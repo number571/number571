@@ -1,13 +1,13 @@
 ## Research articles, manuals, books
-* Theory of the structure of hidden systems: [hiddensystems.pdf](https://github.com/Number571/gopeer/blob/master/hiddensystems.pdf);
-* **(TODO)** UoP consensus algorithm for blockchain systems: [union-of-peers.pdf](https://github.com/Number571/Laziest/blob/master/union-of-peers.pdf);
+* Theory of the structure of hidden systems: [hidden_systems.pdf](https://github.com/Number571/gopeer/blob/master/hidden_systems.pdf);
+* **(TODO)** UoP consensus algorithm for blockchain systems: [union-of-peers.pdf](https://github.com/Number571/Laziest/blob/master/union_of_peers.pdf);
 * **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/Number571/ALLang/blob/master/creating_programming_language.pdf);
 * **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/Number571/Cryptography/blob/master/crypto_complex.pdf);
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/Blockchain/blob/master/_example/blockchain.pdf);
 * CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/Blockchain/blob/master/_example/interface.pdf);
-* Cryptography and Golang: [CryptoGo.pdf](https://github.com/number571/Go/blob/master/Cryptography/CryptoGo.pdf);
-* Cryptography with Python: [Cryptography_with_Python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/Cryptography_with_Python.pdf);
-* The Haskell programming language: [The_Haskell_Programming_Language.pdf](https://github.com/number571/Haskell/blob/master/Book/The_Haskell_Programming_Language.pdf);
+* Cryptography and Golang: [crypto_go.pdf](https://github.com/number571/Go/blob/master/Cryptography/crypto_go.pdf);
+* Cryptography with Python: [crypto_python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
+* The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
 ## Applications
 #### Article based [hiddensystems] applications and libraries
