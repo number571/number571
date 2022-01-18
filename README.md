@@ -56,11 +56,11 @@
 
 ## Template applications with language
 
-* Go: [Go](https://github.com/number571/Go);
-* C: [C](https://github.com/number571/C);
-* C++: [Cpp](https://github.com/number571/Cpp);
-* Python: [Python](https://github.com/number571/Python);
-* Haskell: [Haskell](https://github.com/number571/Haskell);
-* LISP: [Lisp](https://github.com/number571/Lisp);
-* Asm: [asm](https://github.com/number571/Asm);
+* Language Go: [Go](https://github.com/number571/Go);
+* Language C: [C](https://github.com/number571/C);
+* Language C++: [Cpp](https://github.com/number571/Cpp);
+* Language Python: [Python](https://github.com/number571/Python);
+* Language Haskell: [Haskell](https://github.com/number571/Haskell);
+* Language LISP: [Lisp](https://github.com/number571/Lisp);
+* Language Asm: [asm](https://github.com/number571/Asm);
 
