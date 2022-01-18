@@ -1,4 +1,5 @@
 ## Research articles, manuals, books
+
 * Theory of the structure of hidden systems: [hidden_systems.pdf](https://github.com/number571/gopeer/blob/master/hidden_systems.pdf);
 * **(TODO)** UoP consensus algorithm for blockchain systems: [union_of_peers.pdf](https://github.com/number571/unionbc/blob/master/union_of_peers.pdf);
 * **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/number571/allang/blob/master/creating_programming_language.pdf);
@@ -10,8 +11,8 @@
 * The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
 ## Applications
-#### Article based [hidden_systems] applications and libraries
-* Framework gopeer: [go-peer](https://github.com/number571/go-peer);
+
+#### Article based [hidden_systems] applications
 * Hidden Lake Service: [hls](https://github.com/number571/hls);
 * Hidden Email Service: [hes](https://github.com/number571/hes);
 
@@ -22,13 +23,11 @@
 #### Programming language (ALL) based on virtual machine (CVM)
 * Another LISP Language: [allang](https://github.com/number571/allang);
 * C virtual machine: [cvm](https://github.com/number571/cvm);
-* Extended C library: [extclib](https://github.com/number571/extclib);
 
 #### GOST implementations
 * Tendermint with GOST cryptography: [tendermint](https://github.com/number571/tendermint);
-* CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
 
-## Deprecated applications!
+#### Deprecated applications!
 * Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake):
   * security proof problems;
   * old version framework 'gopeer';
@@ -40,3 +39,28 @@
   * unstructured application;
 * Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator):
   * very unstructured application;
+* Abstract assembly language: [aasm](https://github.com/number571/aasm);
+  * is in the template stage;
+
+## Libraries
+
+### Main libraries
+* Framework gopeer: [go-peer](https://github.com/number571/go-peer);
+* CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
+* Extended C library: [extclib](https://github.com/number571/extclib);
+* Little library for assembly language: [asmlib](https://github.com/number571/asmlib);
+
+#### Deprecated libraries!
+* Cryptography C library: [c-crypto-lib](https://github.com/number571/c-crypto-lib);
+* String C library: [c-string-lib](https://github.com/number571/c-string-lib);
+
+## Template applications with language
+
+* Go: [Go](https://github.com/number571/Go);
+* C: [C](https://github.com/number571/C);
+* C++: [Cpp](https://github.com/number571/Cpp);
+* Python: [Python](https://github.com/number571/Python);
+* Haskell: [Haskell](https://github.com/number571/Haskell);
+* LISP: [Lisp](https://github.com/number571/Lisp);
+* Asm: [asm](https://github.com/number571/Asm);
+
