@@ -44,7 +44,7 @@
 
 ## Libraries
 
-### Main libraries
+#### Main libraries
 * Framework gopeer: [go-peer](https://github.com/number571/go-peer);
 * CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
 * Extended C library: [extclib](https://github.com/number571/extclib);
