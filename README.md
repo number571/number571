@@ -17,7 +17,7 @@
 * Hidden Email Service: [hes](https://github.com/number571/hes);
 
 #### Blockhain applications
-* Blockchain kernel with UoP: [union-bc](https://github.com/number571/union-bc);
+* Blockchain kernel with PoU: [union-bc](https://github.com/number571/union-bc);
 * Cryptocurrency from scratch: [blockchain](https://github.com/number571/blockchain);
 
 #### Programming language (ALL) based on virtual machine (CVM)
