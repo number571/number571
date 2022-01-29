@@ -1,7 +1,7 @@
 ## Research articles, manuals, books
 
 * Theory of the structure of hidden systems: [hidden_systems.pdf](https://github.com/number571/gopeer/blob/master/hidden_systems.pdf);
-* **(TODO)** PoU consensus algorithm for blockchain systems: [proof_of_union.pdf](https://github.com/number571/union-bc/blob/master/proof_of_union.pdf);
+* Proof-of-Union consensus algorithm for blockchain systems: [proof_of_union.pdf](https://github.com/number571/union-bc/blob/main/proof_of_union.pdf);
 * **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/number571/allang/blob/master/creating_programming_language.pdf);
 * **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/number571/Cryptography/blob/master/crypto_complex.pdf);
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/blockchain/blob/master/_example/blockchain.pdf);
