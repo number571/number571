@@ -28,19 +28,11 @@
 * Tendermint with GOST cryptography: [tendermint](https://github.com/number571/tendermint);
 
 #### Deprecated applications!
-* Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake):
-  * security proof problems;
-  * old version framework 'gopeer';
-  * can be replaced with HLS+HES+...;
-* P2P connections in Tor: [peer-tor-peer](https://github.com/number571/peer-tor-peer):
-  * tor network is blocked - [lenta.ru](https://lenta.ru/articles/2021/12/14/tor), [meduza.io](https://meduza.io/feature/2021/12/10), [tjournal.ru](tjournal.ru/analysis/488026-v-rossii-zhaluyutsya-na-blokirovku-tor-ego-mozhno-zablokirovat-polnostyu-i-chto-togda-delat-otvechayut-specialisty);
-  * unstructured application;
-* Web HTML parser: [web-parser](https://github.com/number571/web-parserr):
-  * unstructured application;
-* Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator):
-  * very unstructured application;
+* Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake);
+* P2P connections in Tor: [peer-tor-peer](https://github.com/number571/peer-tor-peer);
+* Web HTML parser: [web-parser](https://github.com/number571/web-parserr);
+* Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator);
 * Abstract assembly language: [aasm](https://github.com/number571/aasm);
-  * is in the template stage;
 
 ## Libraries
 
