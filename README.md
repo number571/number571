@@ -1,9 +1,11 @@
-## Research articles, manuals, books
+## Research articles
 
-* Theory of the structure of hidden systems: [hidden_systems.pdf](https://github.com/number571/gopeer/blob/master/hidden_systems.pdf);
-* Proof-of-Union consensus algorithm for blockchain systems: [proof_of_union.pdf](https://github.com/number571/union-bc/blob/main/proof_of_union.pdf);
-* **(TODO)** Creating a programming language: [creating_programming_language.pdf](https://github.com/number571/allang/blob/master/creating_programming_language.pdf);
-* **(TODO)** Cryptography as a complex of algorithms: [crypto_complex.pdf](https://github.com/number571/Cryptography/blob/master/crypto_complex.pdf);
+* Theory of the structure of hidden systems: [theory_of_the_structure_of_hidden_systems.pdf](https://github.com/number571/go-peer/blob/master/docs/theory_of_the_structure_of_hidden_systems.pdf);
+* Monolithic cryptographic protocol: [monolithic_cryptographic_protocol.pdf](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
+* Abstract anonymous networks: [abstract_anonymous_networks.pdf](https://github.com/number571/go-peer/blob/master/docs/abstract_anonymous_networks.pdf);
+
+## Manuals, books
+
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/blockchain/blob/master/_example/blockchain.pdf);
 * CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/blockchain/blob/master/_example/interface.pdf);
 * Cryptography and Golang: [crypto_go.pdf](https://github.com/number571/Go/blob/master/Cryptography/crypto_go.pdf);
@@ -12,9 +14,11 @@
 
 ## Applications
 
-#### Article based [hidden_systems] applications
-* Hidden Lake Service: [hls](https://github.com/number571/hls);
-* Hidden Email Service: [hes](https://github.com/number571/hes);
+* Hidden Lake Service: [HLS](https://github.com/number571/go-peer/tree/master/cmd/hls);
+* Hidden Lake Messenger: [HLM](https://github.com/number571/go-peer/tree/master/cmd/hlm);
+* Hidden Message Service: [HMS](https://github.com/number571/go-peer/tree/master/cmd/hms);
+* Hidden Message Client: [HMC](https://github.com/number571/go-peer/tree/master/cmd/hmc);
+* Cryptographic Data Storage: [CDS](https://github.com/number571/go-peer/tree/master/cmd/cds);
 
 #### Blockhain applications
 * Blockchain kernel with PoU: [union-bc](https://github.com/number571/union-bc);
@@ -29,6 +33,7 @@
 
 #### Deprecated applications!
 * Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake);
+* Hidden Email Service: [hes](https://github.com/number571/hes);
 * P2P connections in Tor: [peer-tor-peer](https://github.com/number571/peer-tor-peer);
 * Web HTML parser: [web-parser](https://github.com/number571/web-parserr);
 * Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator);
@@ -37,7 +42,7 @@
 ## Libraries
 
 #### Main libraries
-* Framework gopeer: [go-peer](https://github.com/number571/go-peer);
+* Library go-peer: [go-peer](https://github.com/number571/go-peer);
 * CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
 * Extended C library: [extclib](https://github.com/number571/extclib);
 * Little library for assembly language: [asmlib](https://github.com/number571/asmlib);
