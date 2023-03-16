@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am developing anonymous networks and blockchain systems;<br/>
+I am developing anonymous networks, blockchain systems and cryptographic applications;<br/>
 Projects are written in the following programming languages: `Asm`, `C`, `Go`;<br/>
 
 Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
