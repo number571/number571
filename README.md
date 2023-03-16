@@ -4,7 +4,7 @@
 
 In my free time I study cryptography, computer science and philosophy;<br/>
 I'm currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
-I work as an information systems developer and a КСЗИ (Cryptographic Information Security Tools) teacher;<br/>
+I work as an information systems developer and a teacher of the subject "Cryptographic means of information protection";<br/>
 
 <table>
  <tr>
