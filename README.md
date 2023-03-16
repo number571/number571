@@ -1,10 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-In my free time, I develop a theoretically provable anonymous network `Hidden Lake` and a `go-peer` package.
+I am developing anonymous networks and blockchain systems;<br/>
+Projects are written in the following programming languages: Asm, C, Go;<br/>
+
+Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`.
 
 <details>
-<summary>💬 More about my projects</summary>
-<br />
+  <summary> 💬 <b>More about my projects</b></summary>
+<br/>
 
 ## Text
 
