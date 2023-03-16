@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-![banner]()
+![banner](banner.png)
 
 I am developing anonymous networks, blockchain systems and cryptographic applications;<br/>
 Projects are written in the following programming languages: `Asm`, `C`, `Go`;<br/>
