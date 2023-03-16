@@ -1,10 +1,12 @@
-## Research articles
+## Text
+
+#### Research articles
 
 * Theory of the structure of hidden systems: [theory_of_the_structure_of_hidden_systems.pdf](https://github.com/number571/go-peer/blob/master/docs/theory_of_the_structure_of_hidden_systems.pdf);
 * Monolithic cryptographic protocol: [monolithic_cryptographic_protocol.pdf](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
 * Abstract anonymous networks: [abstract_anonymous_networks.pdf](https://github.com/number571/go-peer/blob/master/docs/abstract_anonymous_networks.pdf);
 
-## Manuals, books
+#### Manuals, books
 
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/blockchain/blob/master/_example/blockchain.pdf);
 * CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/blockchain/blob/master/_example/interface.pdf);
@@ -12,26 +14,24 @@
 * Cryptography with Python: [crypto_python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
 * The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
-## Applications
+## Applictions
 
-* Hidden Lake Service: [HLS](https://github.com/number571/go-peer/tree/master/cmd/hls);
-* Hidden Lake Messenger: [HLM](https://github.com/number571/go-peer/tree/master/cmd/hlm);
-* Hidden Message Service: [HMS](https://github.com/number571/go-peer/tree/master/cmd/hms);
-* Hidden Message Client: [HMC](https://github.com/number571/go-peer/tree/master/cmd/hmc);
-* Cryptographic Data Storage: [CDS](https://github.com/number571/go-peer/tree/master/cmd/cds);
+#### Hidden Lake
+* Hidden Lake Service: [HLS](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/service); 
+* Hidden Lake Messenger: [HLM](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/messenger);
+* Hidden Lake Traffic: [HLT](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/traffic);
+* Hidden Lake Adapters: [HLA](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/adapters);
 
-#### Blockhain applications
-* Blockchain kernel with PoU: [union-bc](https://github.com/number571/union-bc);
-* Cryptocurrency from scratch: [blockchain](https://github.com/number571/blockchain);
-
-#### Programming language (ALL) based on virtual machine (CVM)
+#### Programming language
 * Another LISP Language: [allang](https://github.com/number571/allang);
 * C virtual machine: [cvm](https://github.com/number571/cvm);
 
-#### GOST implementations
+#### Blockhain
+* Blockchain kernel with PoU: [union-bc](https://github.com/number571/union-bc);
+* Cryptocurrency from scratch: [blockchain](https://github.com/number571/blockchain);
 * Tendermint with GOST cryptography: [tendermint](https://github.com/number571/tendermint);
 
-#### Deprecated applications!
+#### Deprecated!
 * Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake);
 * Hidden Email Service: [hes](https://github.com/number571/hes);
 * P2P connections in Tor: [peer-tor-peer](https://github.com/number571/peer-tor-peer);
@@ -41,17 +41,19 @@
 
 ## Libraries
 
-#### Main libraries
+#### Golang
 * Library go-peer: [go-peer](https://github.com/number571/go-peer);
 * CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
+
+#### C and ASM
 * Extended C library: [extclib](https://github.com/number571/extclib);
 * Little library for assembly language: [asmlib](https://github.com/number571/asmlib);
 
-#### Deprecated libraries!
+#### Deprecated!
 * Cryptography C library: [c-crypto-lib](https://github.com/number571/c-crypto-lib);
 * String C library: [c-string-lib](https://github.com/number571/c-string-lib);
 
-## Template applications with language
+## Templates
 
 * Language Go: [Go](https://github.com/number571/Go);
 * Language C: [C](https://github.com/number571/C);
