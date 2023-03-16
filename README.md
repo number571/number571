@@ -3,7 +3,8 @@
 ![banner](banner.png)
 
 In my free time I study cryptography, computer science and philosophy;<br/>
-I am currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
+I'm currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
+I work as an information systems developer and a КСЗИ (Cryptographic Information Security Tools) teacher;<br/>
 
 <table>
  <tr>
