@@ -88,7 +88,7 @@ I am currently developing anonymous networks, blockchain systems and cryptograph
    
   <td>
 <details>
-  <summary> <b>...</b></summary>
+  <summary> <b>...</b></summary></br>
   
 * [`go-peer`](https://github.com/number571/go-peer)
 * [`extclib`](https://github.com/number571/extclib)
