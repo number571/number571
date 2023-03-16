@@ -7,7 +7,6 @@ Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
 
 <details>
   <summary> 💬 <b>More about my projects</b></summary>
-<br/>
 
 ## Text
 
