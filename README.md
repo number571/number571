@@ -3,12 +3,12 @@
 I am developing anonymous networks, blockchain systems and cryptographic applications;<br/>
 Projects are written in the following programming languages: `Asm`, `C`, `Go`;<br/>
 
-Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
+🌱 Main projects: [`go-peer`](https://github.com/number571/go-peer), [`extclib`](https://github.com/number571/extclib), [`cvm`](https://github.com/number571/cvm), [`allang`](https://github.com/number571/allang), [`rc-trng`](https://github.com/number571/rc-trng);<br/>
 
 <details>
   <summary> 💬 <b>More about my projects</b></summary>
 
-## Text
+### Text
 
 #### Research articles
 
@@ -24,7 +24,7 @@ Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
 * Cryptography with Python: [crypto_python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
 * The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
-## Applictions
+### Applictions
 
 #### Hidden Lake
 * Hidden Lake Service: [HLS](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/service); 
@@ -49,7 +49,7 @@ Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
 * Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator);
 * Abstract assembly language: [aasm](https://github.com/number571/aasm);
 
-## Libraries
+### Libraries
 
 #### Golang
 * Library go-peer: [go-peer](https://github.com/number571/go-peer);
@@ -63,7 +63,7 @@ Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
 * Cryptography C library: [c-crypto-lib](https://github.com/number571/c-crypto-lib);
 * String C library: [c-string-lib](https://github.com/number571/c-string-lib);
 
-## Templates
+### Templates
 
 * Language Go: [Go](https://github.com/number571/Go);
 * Language C: [C](https://github.com/number571/C);
@@ -74,3 +74,13 @@ Main projects: `go-peer`, `extclib`, `cvm`, `allang`, `rc-trng`;
 * Language Asm: [Asm](https://github.com/number571/Asm);
 
 </details>
+
+<details>
+  <summary> 📫 <b>How to reach me</b></summary></br>
+
+* Habr: [@Number571](https://habr.com/ru/users/Number571/posts/);
+* Vkontakte: [@number571](https://vk.com/number571);
+* Youtube: [@CryptFunIT](https://www.youtube.com/@CryptFunIT);
+
+</details>
+
