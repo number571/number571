@@ -1,3 +1,11 @@
+### Hi there 👋
+
+In my free time, I develop a theoretically provable anonymous network `Hidden Lake` and a `go-peer` package.
+
+<details>
+<summary>💬 More about my projects</summary>
+<br />
+
 ## Text
 
 #### Research articles
@@ -63,3 +71,4 @@
 * Language LISP: [Lisp](https://github.com/number571/Lisp);
 * Language Asm: [Asm](https://github.com/number571/Asm);
 
+</details>
