@@ -2,13 +2,21 @@
 
 ![banner](banner.png)
 
-I am developing anonymous networks, blockchain systems and cryptographic applications;<br/>
-Projects are written in the following programming languages: `Asm`, `C`, `Go`;<br/>
+In my free time I study cryptography, computer science and philosophy;<br/>
+I am currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
 
-🌱 Main projects: [`go-peer`](https://github.com/number571/go-peer), [`extclib`](https://github.com/number571/extclib), [`cvm`](https://github.com/number571/cvm), [`allang`](https://github.com/number571/allang), [`rc-trng`](https://github.com/number571/rc-trng);<br/>
+<table>
+ <tr>
+  <th>💬 <b>More about my projects</b></th>
+  <th>🌱 <b>Main projects</b></th>
+  <th>💻 <b>Programming languages</b></th>
+  <th>📫 <b>How to reach me</b></th>
+ </tr>
+ <tr>
 
+  <td>
 <details>
-  <summary> 💬 <b>More about my projects</b></summary>
+  <summary> <b>...</b></summary>
 
 ### Text
 
@@ -76,13 +84,41 @@ Projects are written in the following programming languages: `Asm`, `C`, `Go`;<b
 * Language Asm: [Asm](https://github.com/number571/Asm);
 
 </details>
-
+  </td>
+   
+  <td>
 <details>
-  <summary> 📫 <b>How to reach me</b></summary></br>
+  <summary> <b>...</b></summary>
+  
+* [`go-peer`](https://github.com/number571/go-peer)
+* [`extclib`](https://github.com/number571/extclib)
+* [`cvm`](https://github.com/number571/cvm)
+* [`allang`](https://github.com/number571/allang)
+* [`rc-trng`](https://github.com/number571/rc-trng)
+</details>
+  </td>
+
+  <td>
+<details>
+  <summary> <b>...</b></summary></br>
+
+* `Go` 
+* `C`
+* `Asm`
+
+</details>
+  </td>
+  
+  <td>
+<details>
+  <summary> <b>...</b></summary></br>
 
 * Habr: [@Number571](https://habr.com/ru/users/Number571/posts/);
 * Vkontakte: [@number571](https://vk.com/number571);
 * Youtube: [@CryptFunIT](https://www.youtube.com/@CryptFunIT);
 
 </details>
-
+  </td>
+  
+ </tr> 
+</table>
