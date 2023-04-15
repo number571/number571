@@ -1,4 +1,4 @@
-## Memento mori 👋
+## Welcome 👋
 
 ![banner](banner.png)
 
