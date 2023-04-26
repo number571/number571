@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-![banner](banner.png)
+![banner](banner.gif)
 
 In my free time I study cryptography, computer science and philosophy;<br/>
 I'm currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
