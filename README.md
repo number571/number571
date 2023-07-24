@@ -35,7 +35,7 @@ I work as an information systems developer and a teacher of the subject "Cryptog
 * Cryptography with Python: [crypto_python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
 * The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
-### Applictions
+### Applications
 
 #### Hidden Lake
 * Hidden Lake Service: [HLS](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/service); 
