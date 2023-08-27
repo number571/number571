@@ -1,10 +1,8 @@
-## Welcome 👋
+## Welcome to my profile 👋
 
-![banner](banner.gif)
-
-In my free time I study cryptography, computer science and philosophy;<br/>
-I'm currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
-I work as an information systems developer and a teacher of the subject "Cryptographic means of information protection";<br/>
+* In my free time I study cryptography, computer science and philosophy;<br/>
+* I'm currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
+* I work as an information systems developer and a teacher of the subject "Cryptographic means of information protection";<br/>
 
 <table>
  <tr>
@@ -19,15 +17,26 @@ I work as an information systems developer and a teacher of the subject "Cryptog
 <details>
   <summary> <b>...</b></summary>
 
-### Text
+#### 1. Text
+<hr/>
 
-#### Research articles
+##### Research articles
 
 * Theory of the structure of hidden systems: [theory_of_the_structure_of_hidden_systems.pdf](https://github.com/number571/go-peer/blob/master/docs/theory_of_the_structure_of_hidden_systems.pdf);
 * Monolithic cryptographic protocol: [monolithic_cryptographic_protocol.pdf](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
 * Abstract anonymous networks: [abstract_anonymous_networks.pdf](https://github.com/number571/go-peer/blob/master/docs/abstract_anonymous_networks.pdf);
+* Decentralized key exchange protocol: [decentralized_key_exchange_protocol.pdf](https://github.com/number571/go-peer/blob/master/docs/decentralized_key_exchange_protocol.pdf "DKEP");
 
-#### Manuals, books
+##### Habr articles
+
+* Hidden Lake Service: [habr.com/ru/post/696504](https://habr.com/ru/post/696504/ "Habr HLS")
+* Hidden Lake Messenger: [habr.com/ru/post/701488](https://habr.com/ru/post/701488/ "Habr HLM")
+* Hidden Lake Traffic: [habr.com/ru/post/717184](https://habr.com/ru/post/717184/ "Habr HLT")
+* Hidden Lake Adapters: [habr.com/ru/post/720544](https://habr.com/ru/post/720544/ "Habr HLA")
+* Micro-Anonymous Network: [habr.com/ru/articles/745256](https://habr.com/ru/articles/745256/ "Habr MA")
+* Entropy Increase Networks: [habr.com/ru/articles/743630](https://habr.com/ru/articles/743630/ "Habr EIN")
+
+##### Manuals, books
 
 * Blockchain node programming: [blockchain.pdf](https://github.com/number571/blockchain/blob/master/_example/blockchain.pdf);
 * CLI and GUI for blockchain node: [interface.pdf](https://github.com/number571/blockchain/blob/master/_example/interface.pdf);
@@ -35,24 +44,25 @@ I work as an information systems developer and a teacher of the subject "Cryptog
 * Cryptography with Python: [crypto_python.pdf](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
 * The Haskell programming language: [lazy_haskell.pdf](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
 
-### Applications
+#### 2. Applications
+<hr/>
 
-#### Hidden Lake
+##### Hidden Lake
 * Hidden Lake Service: [HLS](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/service); 
 * Hidden Lake Messenger: [HLM](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/messenger);
 * Hidden Lake Traffic: [HLT](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/traffic);
 * Hidden Lake Adapters: [HLA](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/adapters);
 
-#### Programming language
+##### Programming language
 * Another LISP Language: [allang](https://github.com/number571/allang);
 * C virtual machine: [cvm](https://github.com/number571/cvm);
 
-#### Blockhain
+##### Blockhain
 * Blockchain kernel with PoU: [union-bc](https://github.com/number571/union-bc);
 * Cryptocurrency from scratch: [blockchain](https://github.com/number571/blockchain);
 * Tendermint with GOST cryptography: [tendermint](https://github.com/number571/tendermint);
 
-#### Deprecated!
+##### [Deprecated]
 * Hidden Lake: [hidden-lake](https://github.com/number571/hidden-lake);
 * Hidden Email Service: [hes](https://github.com/number571/hes);
 * P2P connections in Tor: [peer-tor-peer](https://github.com/number571/peer-tor-peer);
@@ -60,21 +70,23 @@ I work as an information systems developer and a teacher of the subject "Cryptog
 * Schedule generator for technical College: [schedule-generator](https://github.com/number571/schedule-generator);
 * Abstract assembly language: [aasm](https://github.com/number571/aasm);
 
-### Libraries
+#### 3. Libraries
+<hr/>
 
-#### Golang
+##### Golang
 * Library go-peer: [go-peer](https://github.com/number571/go-peer);
 * CryptoPro for Golang language: [go-cryptopro](https://github.com/number571/go-cryptopro);
 
-#### C and ASM
+##### C and ASM
 * Extended C library: [extclib](https://github.com/number571/extclib);
 * Little library for assembly language: [asmlib](https://github.com/number571/asmlib);
 
-#### Deprecated!
+##### [Deprecated]
 * Cryptography C library: [c-crypto-lib](https://github.com/number571/c-crypto-lib);
 * String C library: [c-string-lib](https://github.com/number571/c-string-lib);
 
-### Templates
+#### 4. Templates
+<hr/>
 
 * Language Go: [Go](https://github.com/number571/Go);
 * Language C: [C](https://github.com/number571/C);
@@ -90,6 +102,13 @@ I work as an information systems developer and a teacher of the subject "Cryptog
   <td>
 <details>
   <summary> <b>...</b></summary></br>
+
+  <p align="center">
+    <samp>
+      <strong>Statistics</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=number571&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
+    </samp>
+  </p>
   
 * [`go-peer`](https://github.com/number571/go-peer)
 * [`extclib`](https://github.com/number571/extclib)
@@ -103,6 +122,14 @@ I work as an information systems developer and a teacher of the subject "Cryptog
 <details>
   <summary> <b>...</b></summary></br>
 
+  <p align="center">
+    <samp>
+      <strong>Languages</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number571&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
+    </samp>
+  </p>
+
+
 * `Go` 
 * `C`
 * `Asm`
@@ -114,9 +141,15 @@ I work as an information systems developer and a teacher of the subject "Cryptog
 <details>
   <summary> <b>...</b></summary></br>
 
-* Habr: [@Number571](https://habr.com/ru/users/Number571/posts/);
-* Vkontakte: [@number571](https://vk.com/number571);
-* Youtube: [@CryptFunIT](https://www.youtube.com/@CryptFunIT);
+  <p align="center">
+  <samp>
+    <strong>Contacts</strong><br>
+    <a href="https://t.me/number571" target="_blank">Telegram</a> &#9670;
+    <a href="https://vk.com/number571">Vkontakte</a> &#9670;
+    <a href="https://habr.com/ru/users/Number571" target="_blank">Habr</a> &#9670;
+    <a href="https://www.youtube.com/@CryptFunIT" target="_blank">Youtube</a>
+  </samp>
+</p>
 
 </details>
   </td>
