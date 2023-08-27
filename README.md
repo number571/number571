@@ -132,18 +132,23 @@
 
   <p align="center">
     <samp>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number571&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
-    </samp>
-  </p>
-
-  <p align="center">
-    <samp>
+      <strong>Main Languages</strong><br><br>
       <a href="https://github.com/topics/go" target="_blank">Go</a> &#9670;
       <a href="https://github.com/topics/c">C</a> &#9670;
       <a href="https://github.com/topics/asm" target="_blank">Asm</a>
     </samp>
   </p>
 
+  <br>
+
+  <p align="center">
+    <samp>
+      <strong>Statistics</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number571&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
+    </samp>
+  </p>
+
+  
 </details>
   </td>
   
