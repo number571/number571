@@ -103,18 +103,26 @@
 <details>
   <summary> <b>...</b></summary></br>
 
-  <p align="center">
-    <samp>
-      <strong>Statistics</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=number571&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
-    </samp>
-  </p>
-  
 * [`go-peer`](https://github.com/number571/go-peer)
+  <a target="_blank" href="https://github.com/number571/go-peer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-peer&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+  </a>
 * [`extclib`](https://github.com/number571/extclib)
+  <a target="_blank" href="https://github.com/number571/go-peer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=extclib&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+  </a>
 * [`cvm`](https://github.com/number571/cvm)
+  <a target="_blank" href="https://github.com/number571/go-peer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=cvm&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+  </a>
 * [`allang`](https://github.com/number571/allang)
+  <a target="_blank" href="https://github.com/number571/go-peer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=allang&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+  </a>
 * [`rc-trng`](https://github.com/number571/rc-trng)
+  <a target="_blank" href="https://github.com/number571/go-peer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=rc-trng&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+  </a>
 </details>
   </td>
 
@@ -124,15 +132,17 @@
 
   <p align="center">
     <samp>
-      <strong>Languages</strong><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number571&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
     </samp>
   </p>
 
-
-* `Go` 
-* `C`
-* `Asm`
+  <p align="center">
+    <samp>
+      <a href="https://github.com/topics/go" target="_blank">Go</a> &#9670;
+      <a href="https://github.com/topics/c">C</a> &#9670;
+      <a href="https://github.com/topics/asm" target="_blank">Asm</a>
+    </samp>
+  </p>
 
 </details>
   </td>
@@ -142,14 +152,13 @@
   <summary> <b>...</b></summary></br>
 
   <p align="center">
-  <samp>
-    <strong>Contacts</strong><br>
-    <a href="https://t.me/number571" target="_blank">Telegram</a> &#9670;
-    <a href="https://vk.com/number571">Vkontakte</a> &#9670;
-    <a href="https://habr.com/ru/users/Number571" target="_blank">Habr</a> &#9670;
-    <a href="https://www.youtube.com/@CryptFunIT" target="_blank">Youtube</a>
-  </samp>
-</p>
+    <samp>
+      <a href="https://t.me/number571" target="_blank">Telegram</a> &#9670;
+      <a href="https://vk.com/number571">Vkontakte</a> &#9670;
+      <a href="https://habr.com/ru/users/Number571" target="_blank">Habr</a> &#9670;
+      <a href="https://www.youtube.com/@CryptFunIT" target="_blank">Youtube</a>
+    </samp>
+  </p>
 
 </details>
   </td>
