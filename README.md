@@ -7,7 +7,7 @@
 <table>
 <tr>
   <th>💬 <b>More about my projects</b></th>
-  <th>🌱 <b>Main projects</b></th>
+  <th>🌱 <b>Maintained projects</b></th>
   <th>💻 <b>Programming languages</b></th>
   <th>📫 <b>How to reach me</b></th>
  </tr>
@@ -113,17 +113,9 @@
      <a target="_blank" href="https://github.com/number571/extclib">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=extclib&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
-   * [`asmlib`](https://github.com/number571/asmlib)
-     <a target="_blank" href="https://github.com/number571/asmlib">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=asmlib&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
 
    <samp><strong>Applictions</strong></samp><br>
    
-  * [`blockchain`](https://github.com/number571/blockchain)
-     <a target="_blank" href="https://github.com/number571/blockchain">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=blockchain&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
    * [`cvm`](https://github.com/number571/cvm)
      <a target="_blank" href="https://github.com/number571/cvm">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=cvm&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
