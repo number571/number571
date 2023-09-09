@@ -25,16 +25,25 @@
    * [Theory of the structure of hidden systems](https://github.com/number571/go-peer/blob/master/docs/theory_of_the_structure_of_hidden_systems.pdf);
    * [Monolithic cryptographic protocol](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
    * [Abstract anonymous networks](https://github.com/number571/go-peer/blob/master/docs/abstract_anonymous_networks.pdf);
-   * [Decentralized key exchange protocol](https://github.com/number571/go-peer/blob/master/docs/decentralized_key_exchange_protocol.pdf "DKEP");
+   * [Cryptographic key exchange protocol of a decentralized nature in the environment of centralized communication services](https://github.com/number571/go-peer/blob/master/docs/decentralized_key_exchange_protocol.pdf "DKEP");
    
    ##### Habr articles
    
-   * [Hidden Lake Service](https://habr.com/ru/post/696504/ "Habr HLS")
-   * [Hidden Lake Messenger](https://habr.com/ru/post/701488/ "Habr HLM")
-   * [Hidden Lake Traffic](https://habr.com/ru/post/717184/ "Habr HLT")
-   * [Hidden Lake Adapters](https://habr.com/ru/post/720544/ "Habr HLA")
-   * [Micro-Anonymous Network](https://habr.com/ru/articles/745256/ "Habr MA")
-   * [Entropy Increase Networks](https://habr.com/ru/articles/743630/ "Habr EIN")
+   * [Hidden Lake Service is the core of a hidden network with theoretically provable anonymity](https://habr.com/ru/post/696504/ "Habr HLS");
+   * [Writing an anonymous messenger from scratch](https://habr.com/ru/post/701488/ "Habr HLM");
+   * [Secure, hold, save. Unloading anonymous network traffic as a property of deferred routing in HLT](https://habr.com/ru/post/717184/ "Habr HLT");
+   * [Secret communication channels or how centralized services can decompose from the inside](https://habr.com/ru/post/720544/ "Habr HLA");
+   * [Anonymous network of 200 lines of code on Go](https://habr.com/ru/articles/745256/ "Habr MA");
+   * [An anonymous network with a theoretically provable model based on an increase in entropy](https://habr.com/ru/articles/743630/ "Habr EIN");
+   * [Postmodern in Cryptography or How third-order Simulacra Breed in Books](https://habr.com/ru/articles/759512/ "Habr PIC");
+   * [Cost of funds spent to generate 1BTC](https://habr.com/ru/articles/753088/ "Habr C1BTC");
+   * [Malware classification based on compositions and combinations](https://habr.com/ru/articles/748254/ "Habr MCB");
+   * [The theorem of fooling people or how not to believe the tricks of marketing in the security of applications on the example of Telegram](https://habr.com/ru/articles/748254/ "Habr TFPT");
+   * [Software implementation of the Enigma cipher machine in C](https://habr.com/ru/articles/721790/ "Habr SIEC");
+   * [How the steel of modern symmetric cryptography was tempered. Chapter 1. Classical Cryptography](https://habr.com/ru/articles/723392/ "Habr SMSC1");
+   * [How the steel of modern symmetric cryptography was tempered. Chapter 2. Mathematical Cryptography](https://habr.com/ru/articles/728908/ "Habr SMSC2");
+   * [Random number generator based on undefined race condition behavior](https://habr.com/ru/articles/715744/ "Habr RNGRC");
+   * [Useless and beautifully terrible programming language ALLang](https://habr.com/ru/articles/703036/ "Habr PLALL");
    
    ##### Manuals, books
    
