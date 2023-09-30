@@ -17,7 +17,7 @@
    <details>
    <summary> <b>...</b></summary>
    
-  <samp><strong>Text</strong></samp><br>
+   <samp><strong>Text</strong></samp>
    <hr/>
    
    ##### Research articles
@@ -53,7 +53,7 @@
    * [Cryptography with Python](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
    * [The Haskell programming language](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
    
-   <samp><strong>Applications</strong></samp><br>
+   <samp><strong>Applications</strong></samp>
    <hr/>
    
    ##### Hidden Lake
@@ -80,7 +80,7 @@
    * [Schedule generator for technical College](https://github.com/number571/schedule-generator);
    * [Abstract assembly language](https://github.com/number571/aasm);
    
-   <samp><strong>Libraries</strong></samp><br>
+   <samp><strong>Libraries</strong></samp>
    <hr/>
    
    ##### Golang
@@ -95,7 +95,7 @@
    * [Cryptography C library](https://github.com/number571/c-crypto-lib);
    * [String C library](https://github.com/number571/c-string-lib);
    
-   <samp><strong>Templates</strong></samp><br>
+   <samp><strong>Templates</strong></samp>
    <hr/>
    
    * [Go](https://github.com/number571/Go);
