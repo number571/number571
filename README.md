@@ -44,6 +44,7 @@
    * [How the steel of modern symmetric cryptography was tempered. Chapter 2. Mathematical Cryptography](https://habr.com/ru/articles/728908/ "Habr SMSC2");
    * [Random number generator based on undefined race condition behavior](https://habr.com/ru/articles/715744/ "Habr RNGRC");
    * [Useless and beautifully terrible programming language ALLang](https://habr.com/ru/articles/703036/ "Habr PLALL");
+   * [Raising our own node in the anonymous Hidden Lake network](https://habr.com/ru/articles/765464/ "Habr HL");
    
    ##### Manuals, books
    
