@@ -139,6 +139,10 @@
      <a target="_blank" href="https://github.com/number571/rc-trng">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=rc-trng&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
+   * [`go-http3-proxy`](https://github.com/number571/go-http3-proxy)
+     <a target="_blank" href="https://github.com/number571/go-http3-proxy">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-http3-proxy&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
    </details>
   </td>
 
