@@ -124,6 +124,10 @@
      <a target="_blank" href="https://github.com/number571/extclib">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=extclib&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
+   * [`printf`](https://github.com/number571/printf)
+     <a target="_blank" href="https://github.com/number571/printf">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=printf&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
 
    <samp><strong>Applictions</strong></samp><br>
    
