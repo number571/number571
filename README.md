@@ -25,8 +25,9 @@
    * [Theory of the structure of hidden systems](https://github.com/number571/go-peer/blob/master/docs/theory_of_the_structure_of_hidden_systems.pdf);
    * [Monolithic cryptographic protocol](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
    * [Abstract anonymous networks](https://github.com/number571/go-peer/blob/master/docs/abstract_anonymous_networks.pdf);
-   * [Decantralized key exchange protocol](https://github.com/number571/go-peer/blob/master/docs/decentralized_key_exchange_protocol.pdf "DKEP");
-   
+   * [Decantralized key exchange protocol](https://github.com/number571/go-peer/blob/master/docs/decentralized_key_exchange_protocol.pdf);
+   * [The Hidden Lake anonymous network](https://github.com/number571/go-peer/blob/master/docs/hidden_lake_anonymous_network.pdf);
+
    ##### Habr articles
    
    * [Hidden Lake Service is the core of a hidden network with theoretically provable anonymity](https://habr.com/ru/post/696504/ "Habr HLS");
@@ -45,6 +46,11 @@
    * [Random number generator based on undefined race condition behavior](https://habr.com/ru/articles/715744/ "Habr RNGRC");
    * [Useless and beautifully terrible programming language ALLang](https://habr.com/ru/articles/703036/ "Habr PLALL");
    * [Raising our own node in the anonymous Hidden Lake network](https://habr.com/ru/articles/765464/ "Habr HL");
+   * [The story of how I tried to roll up an anonymous network on one of the cheapest OrangePi](https://habr.com/ru/articles/770446/ "Habr HL OrangePi");
+   * [Writing printf in the FASM assembly language](https://habr.com/ru/articles/766044/ "Habr Asm printf");
+   * [We are writing a simple console messenger with end-to-end encryption on top of "Hidden Lake" services](https://habr.com/ru/articles/782836/ "Habr Secpy-Chat");
+   * [Anonymous file sharing in the realities of a global observer](https://habr.com/ru/articles/789968/ "Habr HLF");
+   * [Anonymous P2P network inside a centralized HTTPS server: we sew in parasitic traffic by hook or by crook](https://habr.com/ru/articles/800965/ "Habr P2P inside Server");
    
    ##### Manuals, books
    
@@ -53,6 +59,7 @@
    * [Cryptography and Golang](https://github.com/number571/Go/blob/master/Cryptography/crypto_go.pdf);
    * [Cryptography with Python](https://github.com/number571/Python/blob/master/Cryptography/Book/crypto_python.pdf);
    * [The Haskell programming language](https://github.com/number571/Haskell/blob/master/Book/lazy_haskell.pdf);
+   * [General theory of anonymous communications](https://github.com/number571/go-peer/blob/master/docs/general_theory_of_anonymous_communications.pdf);
    
    <samp><strong>Applications</strong></samp>
    <hr/>
@@ -60,9 +67,13 @@
    ##### Hidden Lake
    * [Hidden Lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake); 
    * [Hidden Lake Service](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/service); 
-   * [Hidden Lake Messenger](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/messenger);
-   * [Hidden Lake Traffic](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/traffic);
+   * [Hidden Lake Messenger](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/applications/messenger);
+   * [Hidden Lake Filesharer](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/applications/filesharer);
+   * [Hidden Lake Traffic](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/helpers/traffic);
+   * [Hidden Lake Encryptor](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/helpers/encryptor);
+   * [Hidden Lake Loader](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/helpers/loader);
    * [Hidden Lake Adapters](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/adapters);
+   * [Hidden Lake Composite](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake/composite);
    
    ##### Programming language
    * [Another LISP Language](https://github.com/number571/allang);
@@ -146,10 +157,6 @@
    * [`go-http3-proxy`](https://github.com/number571/go-http3-proxy)
      <a target="_blank" href="https://github.com/number571/go-http3-proxy">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-http3-proxy&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`client-reverse-proxy`](https://github.com/number571/client-reverse-proxy)
-     <a target="_blank" href="https://github.com/number571/client-reverse-proxy">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=client-reverse-proxy&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
    </details>
   </td>
