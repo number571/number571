@@ -158,6 +158,13 @@
      <a target="_blank" href="https://github.com/number571/go-http3-proxy">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-http3-proxy&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
+
+   <samp><strong>Other</strong></samp><br>
+
+   * [`awesome-anonymity`](https://github.com/number571/awesome-anonymity)
+     <a target="_blank" href="https://github.com/number571/awesome-anonymity">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=awesome-anonymity&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
    </details>
   </td>
 
