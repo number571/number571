@@ -142,6 +142,10 @@
 
    <samp><strong>Applictions</strong></samp><br>
    
+   * [`micro-anon`](https://github.com/number571/micro-anon)
+     <a target="_blank" href="https://github.com/number571/micro-anon">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=micro-anon&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
    * [`cvm`](https://github.com/number571/cvm)
      <a target="_blank" href="https://github.com/number571/cvm">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=cvm&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
