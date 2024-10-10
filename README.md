@@ -140,7 +140,7 @@
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=printf&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
 
-   <samp><strong>Applictions</strong></samp><br>
+   <samp><strong>Applications</strong></samp><br>
    
    * [`micro-anon`](https://github.com/number571/micro-anon)
      <a target="_blank" href="https://github.com/number571/micro-anon">
