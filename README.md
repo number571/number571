@@ -17,7 +17,7 @@
    <details>
    <summary> <b>...</b></summary>
    
-   ##### Research articles
+   ##### Articles
    
    * [Theory of the structure of hidden systems](https://github.com/number571/go-peer/blob/master/docs/theory_of_the_structure_of_hidden_systems.pdf);
    * [Monolithic cryptographic protocol](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
