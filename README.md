@@ -60,10 +60,18 @@
      </a>
 
    <samp><strong>Applications</strong></samp><br>
-   
+
+   * [`hidden-lake`](https://github.com/number571/hidden-lake)
+     <a target="_blank" href="https://github.com/number571/hidden-lake">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=hidden-lake&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
    * [`micro-anon`](https://github.com/number571/micro-anon)
      <a target="_blank" href="https://github.com/number571/micro-anon">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=micro-anon&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
+   * [`secpy-chat`](https://github.com/number571/secpy-chat)
+     <a target="_blank" href="https://github.com/number571/secpy-chat">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=secpy-chat&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
    * [`cvm`](https://github.com/number571/cvm)
      <a target="_blank" href="https://github.com/number571/cvm">
@@ -72,10 +80,6 @@
    * [`allang`](https://github.com/number571/allang)
      <a target="_blank" href="https://github.com/number571/allang">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=allang&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`rc-trng`](https://github.com/number571/rc-trng)
-     <a target="_blank" href="https://github.com/number571/rc-trng">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=rc-trng&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
 
    <samp><strong>Other</strong></samp><br>
