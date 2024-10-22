@@ -50,6 +50,10 @@
      <a target="_blank" href="https://github.com/number571/go-peer">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-peer&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
+   * [`go-rfc1751`](https://github.com/number571/go-rfc1751)
+     <a target="_blank" href="https://github.com/number571/go-rfc1751">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-rfc1751&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
    * [`extclib`](https://github.com/number571/extclib)
      <a target="_blank" href="https://github.com/number571/extclib">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=extclib&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
