@@ -23,7 +23,7 @@
    * [Monolithic cryptographic protocol](https://github.com/number571/go-peer/blob/master/docs/monolithic_cryptographic_protocol.pdf);
    * [Abstract anonymous networks](https://github.com/number571/go-peer/blob/master/docs/abstract_anonymous_networks.pdf);
    * [Decentralized key exchange protocol](https://github.com/number571/go-peer/blob/master/docs/decentralized_key_exchange_protocol.pdf);
-   * [The Hidden Lake anonymous network](https://github.com/number571/go-peer/blob/master/docs/hidden_lake_anonymous_network.pdf);
+   * [The Hidden Lake anonymous network](https://github.com/number571/hidden-lake/blob/master/docs/hidden_lake_anonymous_network.pdf);
 
    ##### Books
    
