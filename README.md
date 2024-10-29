@@ -139,7 +139,7 @@
    * <a href="https://vk.com/number571" target="_blank">Vkontakte</a>
    * <a href="https://habr.com/ru/users/Number571" target="_blank">Habr</a>
    * <a href="https://www.youtube.com/@CryptFunIT" target="_blank">Youtube</a>
-   * <a href="https://raw.githubusercontent.com/number571/hidden-lake/refs/heads/develop/pubkeys/number571.key" target="_blank">Hidden Lake</a>
+   * <a href="https://github.com/number571/hidden-lake-pubkeys/blob/main/list/number571.key" target="_blank">Hidden Lake</a>
   
    </details>
   </td>
