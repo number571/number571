@@ -44,6 +44,8 @@
    <details>
    <summary> <b>...</b></summary></br>
 
+   <samp><strong>Applications & Libraries</strong></samp><br>
+   
    * [`hidden-lake`](https://github.com/number571/hidden-lake)
      <a target="_blank" href="https://github.com/number571/hidden-lake">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=hidden-lake&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
