@@ -44,13 +44,13 @@
    <details>
    <summary> <b>...</b></summary></br>
 
-   * [`go-peer`](https://github.com/number571/go-peer)
-     <a target="_blank" href="https://github.com/number571/go-peer">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-peer&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
    * [`hidden-lake`](https://github.com/number571/hidden-lake)
      <a target="_blank" href="https://github.com/number571/hidden-lake">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=hidden-lake&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+     </a>
+   * [`go-peer`](https://github.com/number571/go-peer)
+     <a target="_blank" href="https://github.com/number571/go-peer">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-peer&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
    * [`cvm`](https://github.com/number571/cvm)
      <a target="_blank" href="https://github.com/number571/cvm">
