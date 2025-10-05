@@ -141,7 +141,7 @@
    * <a href="https://t.me/number571" target="_blank">Telegram</a>
    * <a href="https://vk.com/number571" target="_blank">Vkontakte</a>
    * <a href="https://habr.com/ru/users/Number571" target="_blank">Habr</a>
-   * <a href="https://www.youtube.com/@CryptFunIT" target="_blank">Youtube</a>
+   * <a href="https://www.youtube.com/@CryptoFunIT" target="_blank">Youtube</a>
    * <a href="number571.key" target="_blank">Hidden Lake</a>
   
    </details>
