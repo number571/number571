@@ -44,38 +44,13 @@
    <details>
    <summary> <b>...</b></summary></br>
 
-   <samp><strong>Libraries</strong></samp><br>
-
    * [`go-peer`](https://github.com/number571/go-peer)
      <a target="_blank" href="https://github.com/number571/go-peer">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-peer&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
-   * [`go-rfc1751`](https://github.com/number571/go-rfc1751)
-     <a target="_blank" href="https://github.com/number571/go-rfc1751">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-rfc1751&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`extclib`](https://github.com/number571/extclib)
-     <a target="_blank" href="https://github.com/number571/extclib">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=extclib&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`printf`](https://github.com/number571/printf)
-     <a target="_blank" href="https://github.com/number571/printf">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=printf&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-
-   <samp><strong>Applications</strong></samp><br>
-
    * [`hidden-lake`](https://github.com/number571/hidden-lake)
      <a target="_blank" href="https://github.com/number571/hidden-lake">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=hidden-lake&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`micro-anon`](https://github.com/number571/micro-anon)
-     <a target="_blank" href="https://github.com/number571/micro-anon">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=micro-anon&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`secpy-chat`](https://github.com/number571/secpy-chat)
-     <a target="_blank" href="https://github.com/number571/secpy-chat">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=secpy-chat&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
    * [`cvm`](https://github.com/number571/cvm)
      <a target="_blank" href="https://github.com/number571/cvm">
@@ -86,24 +61,6 @@
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=allang&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
      </a>
 
-   <samp><strong>Other</strong></samp><br>
-
-   * [`hidden-public-keys`](https://github.com/number571/hidden-public-keys)
-     <a target="_blank" href="https://github.com/number571/hidden-public-keys">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=hidden-public-keys&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`hidden-echo-service`](https://github.com/number571/hidden-echo-service)
-     <a target="_blank" href="https://github.com/number571/hidden-echo-service">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=hidden-echo-service&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`awesome-anonymity`](https://github.com/number571/awesome-anonymity)
-     <a target="_blank" href="https://github.com/number571/awesome-anonymity">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=awesome-anonymity&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
-   * [`go-http3-proxy`](https://github.com/number571/go-http3-proxy)
-     <a target="_blank" href="https://github.com/number571/go-http3-proxy">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=number571&repo=go-http3-proxy&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
-     </a>
    </details>
   </td>
 
