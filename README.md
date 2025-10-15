@@ -2,7 +2,7 @@
 
 * In my free time I study cryptography, computer science and philosophy;<br/>
 * I'm currently developing anonymous networks, blockchain systems and cryptographic applications;<br/>
-* I'm a senior developer of information systems in the Go language;<br/>
+* I'm a senior/lead developer of information systems in the Go language at a Russian bigtech company;<br/>
 * Previously, I worked as a teacher of the subject "Cryptographic means of information protection";<br/>
 
 <table>
